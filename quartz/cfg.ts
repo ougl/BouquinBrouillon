@@ -58,7 +58,7 @@ export interface FullPageLayout {
   header: QuartzComponent[]
   beforeBody: QuartzComponent[]
   pageBody: QuartzComponent
-  left: QuartzComponent[]
+  left: QuartzComponent
   right: QuartzComponent[]
   footer: QuartzComponent
 }
