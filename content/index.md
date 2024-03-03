@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to BouquinBrouillon
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hi!
+This digital garden allows me to take notes on my readings. And I thought it would be nice to share a little 🤓
