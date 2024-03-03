@@ -21,7 +21,7 @@ const config: QuartzConfig = {
     theme: {
       cdnCaching: true,
       typography: {
-        header: "Patrick Hand",
+        header: "Patua One",
         body: "EB Garamond",
         code: "IBM Plex Mono",
       },
