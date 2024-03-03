@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: A thousand brains, Jeff Hawkins
 draft: false
 tags:
   - example-tag
