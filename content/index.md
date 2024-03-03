@@ -1,5 +1,8 @@
 ---
-title: Welcome to BouquinBrouillon
+title: Bienvenue sur BouquinBrouillon!
 ---
-Hi!
-This digital garden allows me to take notes on my readings. And I thought it would be nice to share a little 🤓
+Salut !
+Ce jardin numérique me permet de prendre des notes sur mes lectures. Et je me suis dit que ce serait bien de partager un peu 🤓.
+
+Par exemple j'ai lu:
+[[A Thousand Brains]]
